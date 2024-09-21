@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ChatWs é uma ferramenta de chat em tempo real que usa WebSockets. Crie uma sala, compartilhe o link e comece a conversar instantaneamente.
 
-- [Acesse o projeto finalizado, online](https://chatws.onrender.com/)
+- [Acesse o projeto finalizado, online](https://chatws-ggio.onrender.com)
 
 ## :memo: Licença
 
